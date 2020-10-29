@@ -8,6 +8,8 @@
 * iOS and UIKit experience 
 * Using dependencies e.g CocoaPods or Swift Package Manager
 * Multithreading
+* Networking in iOS 
+* Unit Testing
 * Experience with the Human Interface Guidelines and Apple design best practices. 
 * MVC or MVVM experience
 
