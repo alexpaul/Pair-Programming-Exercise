@@ -17,3 +17,12 @@
 * Experience using Postman or similar.
 
 
+## Checklist of topics to know
+
+- [ ] Populate a Table View with given data. 
+- [ ] Populate a Collection View with data and create custom cell.  
+- [ ] Use URLSession natively without any third party libraries. 
+- [ ] Be able to segue and pass data to a view controller. 
+- [ ] Be able to create animations using UIKit built-in APIs. e.g UIView.animate
+
+
